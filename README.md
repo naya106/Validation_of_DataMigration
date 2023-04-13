@@ -17,12 +17,11 @@
 <br>
 
 ## ✔ 수행 절차
-* #### 1. Migration Target 정보 확인 - <a href="">🖱</a>
-* #### 2. Table Info 작성 - <a href="">🖱</a>
-* #### 3. Configuration 설정 - <a href="">🖱</a>
-* #### 4. Migration 유형별 작업 수행 - <a href="">🖱</a>
+* #### 1. Migration Target 정보 확인 - <a href="">view</a>
+* #### 2. Table Info 작성 - <a href="">view</a>
+* #### 3. Configuration 설정 - <a href="">view</a>
+* #### 4. Migration 유형별 작업 수행 - <a href="">view</a>
 <br>
 
-## 🛠 개선 사항
-- 동적 Query 사용
-- DateFlag 항목 추가
+## 🎸 etc.
+- 당초 사이트 프로젝트 내 사용 목적으로 개발하여 고객사 정보를 로컬화하여 코드 수정
