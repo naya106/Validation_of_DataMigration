@@ -16,11 +16,12 @@
 - **IDE** : Pycharm Community Edition
 <br>
 
-## ✔ 수행 절차
-&nbsp;&nbsp; 1. Migration 대상 정의 - <a href="https://github.com/naya106/Validation_of_DataMigration/wiki/%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8#-1-migration-%EB%8C%80%EC%83%81-%EC%A0%95%EC%9D%98">view</a><br><br>
-&nbsp;&nbsp; 2. Table Info 작성 - <a href="">view</a><br><br>
-&nbsp;&nbsp; 3. Configuration 설정 - <a href="">view</a><br><br>
-&nbsp;&nbsp; 4. Migration 유형별 작업 수행 - <a href="">view</a><br><br>
+## ✔ 수행 절차 
+&nbsp;&nbsp; 1. Migration 대상 정의<br><br>
+&nbsp;&nbsp; 2. Table Info 작성<br><br>
+&nbsp;&nbsp; 3. Configuration 설정<br><br>
+&nbsp;&nbsp; 4. Migration 유형별 작업 수행<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/naya106/Validation_of_DataMigration/wiki/%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8#-1-migration-%EB%8C%80%EC%83%81-%EC%A0%95%EC%9D%98">View 👓</a><br>
 <br>
 
 ## 🎸 etc.
