@@ -20,7 +20,7 @@
 &nbsp;&nbsp; 1. Migration Target 정보 확인 - <a href="">view</a><br>
 &nbsp;&nbsp; 2. Table Info 작성 - <a href="">view</a><br>
 &nbsp;&nbsp; 3. Configuration 설정 - <a href="">view</a><br>
-&nbsp;&nbsp; 4. Migration 유형별 작업 수행 - <a href="">view</a>
+&nbsp;&nbsp; 4. Migration 유형별 작업 수행 - <a href="">view</a><br>
 <br>
 
 ## 🎸 etc.
