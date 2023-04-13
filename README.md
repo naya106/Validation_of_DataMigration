@@ -21,7 +21,7 @@
 &nbsp;&nbsp; 2. Table Info 작성<br><br>
 &nbsp;&nbsp; 3. Configuration 설정<br><br>
 &nbsp;&nbsp; 4. Migration 유형별 작업 수행<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/naya106/Validation_of_DataMigration/wiki/%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8">View 👓</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/naya106/Validation_of_DataMigration/wiki/%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8">상세보기 👓</a><br>
 <br>
 
 ## 🎸 etc.
