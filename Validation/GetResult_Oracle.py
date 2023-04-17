@@ -43,6 +43,7 @@ class ConnectOracleSrc:
         params = oracledb.ConnectParams(host=Oracle['host'],
                                         port=Oracle['port'],
                                         service_name=Oracle['service_name'])
+        
         # Oracle 12.X 이전 버전 시 Thick mode로 실행
         oracledb.init_oracle_client()
         conn = oracledb.connect(user=Oracle['user'],
@@ -101,6 +102,7 @@ class ConnectOracleTgt:
         params = oracledb.ConnectParams(host=Oracle['host'],
                                         port=Oracle['port'],
                                         service_name=Oracle['service_name'])
+        
         oracledb.init_oracle_client()
         conn = oracledb.connect(user=Oracle['user'],
                                 password=Oracle['password'],
