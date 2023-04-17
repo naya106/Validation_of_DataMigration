@@ -12,7 +12,7 @@
 
 ## ⚙️ 개발 환경
 - `Python 3.7`
-- **Database** : Oracle, Mysql
+- **Database** : Oracle, MySQL
 - **IDE** : Pycharm Community Edition
 <br>
 
