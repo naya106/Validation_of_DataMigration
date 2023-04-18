@@ -19,7 +19,7 @@
 ## 프로그램 상세
 &nbsp;&nbsp; 1. 사전 확인 - <a href="https://github.com/naya106/Validation_of_DataMigration/wiki/1.-%EC%82%AC%EC%A0%84-%ED%99%95%EC%9D%B8">view</a><br><br>
 &nbsp;&nbsp; 2. 프로그램 파일 설명 - <a href="https://github.com/naya106/Validation_of_DataMigration/wiki/2.-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%ED%8C%8C%EC%9D%BC-%EC%84%A4%EB%AA%85">view</a><br><br>
-&nbsp;&nbsp; 3. 수행 절차 - <a href="https://github.com/naya106/Validation_of_DataMigration/wiki/3.-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8">view</a><br><br> 
+&nbsp;&nbsp; 3. 수행 절차(How to Use) - <a href="https://github.com/naya106/Validation_of_DataMigration/wiki/3.-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8">view</a><br><br> 
 <br>
 
 ## etc.
