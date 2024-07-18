@@ -22,5 +22,5 @@
 &nbsp;&nbsp; 3. 수행 절차(How to Use) - <a href="https://github.com/naya106/Validation_of_DataMigration/wiki/3.-%EC%88%98%ED%96%89-%EC%A0%88%EC%B0%A8(How-to-Use)">view</a><br><br> 
 <br>
 
-## 🗨🎸etc.
+## 🎸etc.
 - 당초 사이트 프로젝트 내 사용 목적으로 개발하여 고객사 정보를 로컬 환경에 맞추어 코드 수정
